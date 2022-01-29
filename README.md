@@ -52,5 +52,5 @@ So it seems like in order to have a constant successful kickstarter results, the
 
 4. What are some other possible tables and/or graphs that we could create?
 
-   - The exact same analysis could be added for each country separately, so they can be analyzed individually. 
+  - The exact same analysis could be added for each country separately, so they can be analyzed individually. 
 Also, a table could be added with the conversion of the currencies and hoe much value they hold for each country.
