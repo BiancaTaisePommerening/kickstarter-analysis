@@ -33,9 +33,9 @@ Also when trying out the IFS formula, an attempt was made to filter the subcateg
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 
-No matter which month, successful kickstarter’ plays were higher than failed and canceled ones.
+1. No matter which month, successful kickstarter’ plays were higher than failed and canceled ones.
 
-For the successful kickstarter’ plays there is a high peak in May and then a low peak in December. While the failed kickstarter’ plays had very little change throughout the year. In addition, the canceled kickstarter’ plays also had little to know change and were always on very low numbers. 
+2. For the successful kickstarter’ plays there is a high peak in May and then a low peak in December. While the failed kickstarter’ plays had very little change throughout the year. In addition, the canceled kickstarter’ plays also had little to know change and were always on very low numbers. 
 
 
 - What can you conclude about the Outcomes based on Goals?
