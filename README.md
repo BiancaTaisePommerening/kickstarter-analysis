@@ -45,10 +45,12 @@ So it seems like in order to have a constant successful kickstarter results, the
 
 
 - What are some limitations of this dataset?
+
 One limitation could be the fact that the dataset is 5 years old already could be a problem, because on this case where the subject of analysis is about Kickstarters, outdated data could implicate on having a result that doesn't represent the present scenario.
 The fact that only a set of countries is been used could be another limitation as it is unknown if it is just a subset or the complete set of data available.
 In addition, there is a limitation where currency is not consistent throughout the dataset, possibly making unrealistic to compare them considering that the real value is difference for each country.
 
 - What are some other possible tables and/or graphs that we could create?
+
 The exact same analysis could be added for each country separately, so they can be analyzed individually. 
 Also, a table could be added with the conversion of the currencies and hoe much value they hold for each country.
