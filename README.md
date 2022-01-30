@@ -11,14 +11,14 @@ The purpose of this project is to analyze the events of Kickstarter' plays by mo
 
 The analysis of Outcomes Based on Launch Dates was performed by creating a pivot table and pivot chart that demonstrated the successful, failed and canceled kickstarter' plays throughout the months in order to display visually the peaks and downs of each type of outcomes.
 
-![Outcomes_based_on_Launch_Date](https://github.com/BiancaTaisePommerening/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Outcomes_based_on_Launch_Date](/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
 The analysis of Outcomes Based on Goals was performed by creating a table and a line chart that shows the total number of successful, failed and canceled Kickstarter' plays based on goal ranges, as well as the overall total amount of projects and the percentage each type of outcomes represented from the total of projects of a specific range.
 
-![Outcomes_Based_on_Goals](https://github.com/BiancaTaisePommerening/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_Based_on_Goals](/Resources/Outcomes_vs_Goals.png)
 
 
 
